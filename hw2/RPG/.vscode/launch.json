@@ -1,0 +1,36 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MaxSumCalculator",
+            "request": "launch",
+            "mainClass": "MaxSumCalculator",
+            "projectName": "RPG_b3ff25c3"
+        },
+        {
+            "type": "java",
+            "name": "test_RPG",
+            "request": "launch",
+            "mainClass": "test_RPG",
+            "projectName": "RPG_b3ff25c3",
+            "args": "/Users/web/Library/CloudStorage/Dropbox/NTU_course/Senior2/Algorithm/hw2/RPG/test_RPG.json"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "RPG_b3ff25c3"
+        }
+    ]
+}

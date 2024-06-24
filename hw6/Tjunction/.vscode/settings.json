@@ -1,0 +1,20 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "/Users/web/Library/CloudStorage/Dropbox/NTU_course/Senior2/Algorithm/**/*.jar"
+        ],
+        "exclude": [
+            "/Users/web/Library/CloudStorage/Dropbox/NTU_course/Senior2/Algorithm/hw4/Observation_station/lib/Gson.jar",
+            "/Users/web/Library/CloudStorage/Dropbox/NTU_course/Senior2/Algorithm/lib/json-simple-1.1.1.jar",
+            "/Users/web/Library/CloudStorage/Dropbox/NTU_course/Senior2/Algorithm/hw5/Exam/lib/json-simple-1.1.1.jar",
+            "/Users/web/Library/CloudStorage/Dropbox/NTU_course/Senior2/Algorithm/hw3/Mafia/lib/gson.jar",
+            "/Users/web/Library/CloudStorage/Dropbox/NTU_course/Senior2/Algorithm/hw5/Exam/lib/gson.jar",
+            "/Users/web/Library/CloudStorage/Dropbox/NTU_course/Senior2/Algorithm/hw3/Mafia/lib/algs4.jar",
+            "/Users/web/Library/CloudStorage/Dropbox/NTU_course/Senior2/Algorithm/hw4/Observation_station/lib/algs4.jar",
+            "/Users/web/Library/CloudStorage/Dropbox/NTU_course/Senior2/Algorithm/hw5/Exam/lib/algs4.jar"
+        ]
+    }
+}

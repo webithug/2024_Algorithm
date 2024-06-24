@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/web/Library/CloudStorage/Dropbox/NTU_course/Senior2/Algorithm/lib/algs4.jar",
+        "/Users/web/Library/CloudStorage/Dropbox/NTU_course/Senior2/Algorithm/lib/json-simple-1.1.1.jar",
+        "/Users/web/Library/CloudStorage/Dropbox/NTU_course/Senior2/Algorithm/lib/gson.jar"
+    ]
+}

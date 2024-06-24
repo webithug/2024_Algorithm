@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/web/Library/CloudStorage/Dropbox/NTU_course/Senior2/Algorithm/lib/gson.jar"
+    ]
+}
